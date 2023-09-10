@@ -20,49 +20,37 @@ struct Buzruk: Developer {
 
 ## Links
 
-- [Website](https://buzruk.github.io/)
-- [Blogs](https://buzruk.github.io/blogs)
-- [Twitter](https://twitter.com/_buzruk)
-- [Facebook](https://www.facebook.com/profile.php?id=100080775588505)
-- [Instagram](https://www.instagram.com/ali.is.muslim/)
-- [LinkedIn](https://www.linkedin.com/in/buzurgmexr-sultonaliyev-98240a28b)
-- [Mastodon](https://mastodon.social/@buzruk)
-- [Stack Overflow](https://stackoverflow.com/users/22532063/buzurgmexr-sultonaliyev)
-- [LeetCode](https://leetcode.com/buzruk/)
-- [Threads](https://www.threads.net/@ali.is.muslim)
 
+| **<a href="https://buzruk.github.io/">Website</a>**  |  **<a href="https://buzruk.github.io/blogs"> Blogs </a>** |  **<a href="https://twitter.com/_buzruk"> Twitter </a>** |  **<a href="https://www.facebook.com/profile.php?id=100080775588505"> Facebook </a>** |  **<a href="https://www.instagram.com/ali.is.muslim/"> Instagram </a>** |
+|---|---|---|---|---|
+| **<a href="https://www.linkedin.com/in/buzurgmexr-sultonaliyev-98240a28b"> LinkedIn </a>** | **<a href="https://mastodon.social/@buzruk"> Mastodon </a>**  |  **<a href="https://stackoverflow.com/users/22532063/buzurgmexr-sultonaliyev">Stack Overflow</a>** | **<a href="https://leetcode.com/buzruk/"> LeetCode </a>**  |  **<a href="https://www.threads.net/@ali.is.muslim"> Threads </a>** |
 
-- []()
 
 ## 💪🏻 Skills
 
-
 ### Code
 
-- Swift
-- UIKit
-- SwiftUI
+| Swift | UIKit | SwiftUI |
+|-------|-------|---------|
 
 
 ### Pattern
 
-- MVC
-- MVVM
-- Clean Swift (VIP)
+| MVC | MVVM | Clean Swift (VIP) |
+|-----|------|-------------------|
 
 
 ### Test
 
-- TDD, Unit testing
-- UI testing
+| TDD, Unit testing | UI testing |
+|-------------------|------------|
 
 
 ### Tools
 
-- Git
-- Github
-- Vim
-- Emacs
+| Git | Github | Vim | Emacs |
+|-----|--------|-----|-------|
+
 
  
 <!--## My certifications:
