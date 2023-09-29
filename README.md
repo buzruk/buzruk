@@ -36,8 +36,8 @@ struct Buzruk: Developer {
 
 ### Pattern
 
-| MVC | MVVM | Clean Swift (VIP) |
-|-----|------|-------------------|
+| MVC | MVVM | Clean Swift (VIP) | TCA (The Composable Architecture) |
+|-----|------|-------------------|-----------------------------------|
 
 
 ### Test
